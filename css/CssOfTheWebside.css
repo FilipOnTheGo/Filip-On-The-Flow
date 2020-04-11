@@ -1,0 +1,34 @@
+/* Header */
+header{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 20px;
+}
+
+header h1{
+
+    color: black;
+}
+
+header img{
+    display: inline-block;
+    width: 300px;
+    border-radius: 170px;
+    border: 7px solid black;
+
+}
+
+
+/*  Fonts and sizes of text without any specs  */
+
+h1, h2{
+
+    font-family: 'Merriweather', serif;;
+}
+
+p{
+
+    font-size: 23px;
+}
+
+/*   */
