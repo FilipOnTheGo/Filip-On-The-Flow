@@ -1,34 +1,55 @@
-/* Header */
-header{
+/*Header */
+    header{
     background-color: rgb(255, 255, 255);
     text-align: center;
     padding-top: 20px;
-}
+    }
 
-header h1{
+    header h2{
 
     color: black;
-}
+    }
 
-header img{
+    header img{
     display: inline-block;
     width: 300px;
     border-radius: 170px;
     border: 7px solid black;
 
-}
+    }
 
 
-/*  Fonts and sizes of text without any specs  */
+/*Fonts and sizes of text without any specs  */
 
-h1, h2{
+    h1, h2{
 
     font-family: 'Merriweather', serif;;
-}
+    }
 
-p{
+    p{
 
     font-size: 23px;
+    }
+
+/*  Image sea background */
+
+    .container {
+    width: 1332px;
+    height: 650px;
+}
+    .container img {
+    width: 350px;
+    height: auto;
+    text-align: center;
 }
 
-/*   */
+/* main */
+    main{
+max-width: 3000px;
+text-align: center;
+}
+main img{
+max-width: 100%;
+width: 300px;
+display: inline-block;
+}
